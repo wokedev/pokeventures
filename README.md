@@ -1,9 +1,9 @@
 # PokeVentures - Minecraft Mod Installation 
-[![Latest Version](https://img.shields.io/badge/release-v1.0-green "View latest release")](https://github.com/wokedev/pokeventures/releases)
+[![Latest Version](https://img.shields.io/badge/release-v1.0-blue "View latest release")](https://github.com/wokedev/pokeventures/releases)
 
 Client-side mods to install to join the Minecraft PokeVentures server
 
-Come Join Us: PokeVentures.aternos.me
+Come Join Us: ```PokeVentures.aternos.me```
 
 ## How to install
 
