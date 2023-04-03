@@ -11,7 +11,7 @@ Come Join Us: ```PokeVentures.aternos.me```
 2. Go to your .minecraft folder in %appdata%.
 3. Replace your mods folder with the mods folder in the zip file.
 
-## Mods Explained
+## Mods explained
 - Cobblemon - The Cobblemon Mod
 - Fabric API - Required Dependency
 - Architectury - Required Dependency
