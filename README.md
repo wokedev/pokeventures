@@ -10,3 +10,15 @@ Come Join Us: ```PokeVentures.aternos.me```
 1. Run the Fabric Installer for the Minecraft version (1.19.2).
 2. Go to your .minecraft folder in %appdata%.
 3. Replace your mods folder with the mods folder in the zip file.
+
+## Mods Explained
+- Cobblemon - The Cobblemon Mod
+- Fabric API - Required Dependency
+- Architectury - Required Dependency
+- Fabric Seasons - Aesthetic and Immersion
+- Sodium - Modern Rendering Engine and Client-Side Optimisation
+- Lithium - Game Logic/Server Optimisation
+- Phosphor - Lighting Engine Optimisation
+- Ferrite Core - Memory Usage Optimisation
+- Iris Shaders - Shaders Option Replacement
+- WI-Zoom - Zoom Optifine Feature Replacement
